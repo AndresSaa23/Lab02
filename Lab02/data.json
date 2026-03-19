@@ -1,0 +1,25 @@
+{
+    "chart_title": "Weekly Exercise vs Heart Condition Risk Reduction (%)", 
+    "source": "https://nyulangone.org/news/though-more-better-even-moderate-amounts-exercise-may-reduce-risk-common-heart-condition",
+    "data_points": [
+        {
+            "Minutes": "0",
+            "Percentage": 0
+        },
+        {
+            "Minutes": "60",
+            "Percentage": 11
+        },
+        {
+            "Minutes": "150",
+            "Percentage": 30
+        },
+	{   "Minutes": "300",
+            "Percentage": 60
+        },
+        {
+            "Minutes": "600",
+            "Percentage": 65
+	}
+    ]
+}
