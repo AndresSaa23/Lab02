@@ -31,7 +31,7 @@ st.header("Training Data")
 #    - Use a 'try-except' block here as well.
 
 try:
-    infile = open("data.json")
+    infile = open("../data.json")
     json_data = json.load(infile)
     infile.close()
     st.success("JSON data loaded successfully!")
